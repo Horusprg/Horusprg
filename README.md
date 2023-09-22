@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Flávio Moura</h1>
 <h3 align="center">Undergraduating in Computer Engineering at the Federal University of Pará (UFPA), member of the Operational Research Laboratory (LPO).</h3>
 
-- 🔭 I’m currently working on [UX-Tracking: User eXperience Tracking](https://github.com/Colab-UNIRIO-UFPA/uxtracking.com) and [UX-Tracking Extension](https://github.com/Colab-UNIRIO-UFPA/UX-Tracking-Extension)
+- 🔭 I’m currently working on [UX-Tracking: User eXperience Tracking](https://github.com/Colab-UNIRIO-UFPA/uxtracking.com), [UX-Tracking Extension](https://github.com/Colab-UNIRIO-UFPA/UX-Tracking-Extension) and [2D Geometric Shape Classification](https://github.com/Horusprg/2D-Geometric-Shape-Classification)
 
 - 🤝 I’m looking for help with [Contamination-risk-estimation-model](https://github.com/Horusprg/Contamination-risk-estimation-model)
 
